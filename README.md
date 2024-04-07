@@ -1,4 +1,4 @@
-# Laboratorio-3
+# Laboratório-3
 ***
 # Análise de Sentimentos com Language Studio no Azure AI.
 ***
